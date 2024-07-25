@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcs&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p>I'm a passionate web developer and BCA graduate, with a strong foundation in various programming languages and technologies. I recently completed my internship at CipherByte Technologies, where I worked on developing efficient and user-friendly web applications. Here's a bit about me:</p>
 
 - 🌱 I’m currently learning **React**
 
