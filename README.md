@@ -14,7 +14,7 @@
   
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, C, C++, Java, Python, Django, MySQL, PostgreSQL, Node.js, Express.js, and EJS.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhjithcs](https://github.com/abhjithcs)
+- 👨‍💻 All of my projects are available at ([https://github.com/abhjithcs](https://github.com/abhijithcsgo))
 
 - 📫 How to reach me **abhijithcsg8@gmail.com**
 
