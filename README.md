@@ -6,11 +6,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>I'm a passionate web developer and BCA graduate, with a strong foundation in various programming languages and technologies. I recently completed my internship at CipherByte Technologies, where I worked on developing efficient and user-friendly web applications. Here's a bit about me:</p>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’ve worked on TodayTodo and WeatherVue web apps at CipherByte Technologies.
+  
+- 🌱 I’m enhancing my skills in UI/UX design, Data Analysis, and Algorithms.
+  
+- 📚 Participating in the 45 Days DSA Challenge by Arsh Goyal to sharpen my problem-solving skills.
+  
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, C, C++, Java, Python, Django, MySQL, PostgreSQL, Node.js, Express.js, and EJS.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhjithcs](https://github.com/abhjithcs)
-
-- 💬 Ask me about **frontend development,django**
 
 - 📫 How to reach me **abhijithcsg8@gmail.com**
 
