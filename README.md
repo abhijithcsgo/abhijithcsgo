@@ -5,6 +5,26 @@
 <p align="left"> <a href="https://twitter.com/abhijithcs" target="blank"><img src="https://img.shields.io/twitter/follow/abhijithcs?logo=twitter&style=for-the-badge" alt="abhijithcs" /></a> </p>
 
 - 🌱 I’m currently learning **ASP .NET, DevExtreme , web API**
+- - 🔭 My project is **Trip Planner Website**, a platform that revolutionizes the travel planning experience.  
+  **Technologies Used**: Django (Python web framework), HTML/CSS, JavaScript, Leaflet.js (for maps), Bootstrap (for frontend styling)  
+  **Database**: PostgreSQL  
+  **IDE**: Visual Studio Code  
+  **Languages**: Python, JavaScript  
+  **Description**:  
+  The Trip Planner website simplifies trip planning by allowing users to input their destination and time availability to receive tailored tour packages. It offers features like landscape-based search, interactive map views, itinerary suggestions, and information about restaurants and accommodations. Users can contribute by adding tourist spots and sharing reviews, making it a comprehensive solution for travel planning.
+
+- 🌱 I’m enhancing my skills in UI/UX design, Data Analysis, and Algorithms.
+
+- 📚 Participating in the 45 Days DSA Challenge by Arsh Goyal to sharpen my problem-solving skills.
+
+- 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, C, C++, Java, Python, Django, MySQL, PostgreSQL, Node.js, Express.js, and EJS.
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/abhijithcsgo).
+
+- 📫 How to reach me: **abhijithcsg8@gmail.com**
+
+- ⚡ Fun fact: **I think I am Funny.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
