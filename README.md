@@ -5,7 +5,7 @@
 
 <p>I'm a passionate web developer, software developer, and BCA graduate with a strong foundation in various programming languages and technologies. I recently joined Wipro PARI as a Software Developer and previously completed my internship at CipherByte Technologies, where I developed efficient and user-friendly web applications. Here's a bit about me:</p>
 
-- 🔭 My main project is **Trip Planner Website**, a platform that revolutionizes the travel planning experience.  
+- 🔭 My project is **Trip Planner Website**, a platform that revolutionizes the travel planning experience.  
   **Technologies Used**: Django (Python web framework), HTML/CSS, JavaScript, Leaflet.js (for maps), Bootstrap (for frontend styling)  
   **Database**: PostgreSQL  
   **IDE**: Visual Studio Code  
