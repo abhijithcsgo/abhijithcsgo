@@ -42,8 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithcsgo&" alt="abhijithcsgo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithcsgo&show_icons=true&locale=en&layout=compact" alt="abhijithcsgo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithcsgo&show_icons=true&locale=en" alt="abhijithcsgo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithcsgo&" alt="abhijithcsgo" /></p>
