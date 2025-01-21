@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijith C S</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijithcsgo&label=Profile%20views&color=0e75b6&style=flat" alt="abhijithcsgo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abhijithcs" target="blank"><img src="https://img.shields.io/twitter/follow/abhijithcs?logo=twitter&style=for-the-badge" alt="abhijithcs" /></a> </p>
 
