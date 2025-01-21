@@ -31,7 +31,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I’m currently working as a **Software Developer at Wipro PARI**.  
 - 🌱 I’m currently learning **ASP .NET, DevExtreme, and Web API**.  
 - 🌱 I’m also enhancing my skills in **UI/UX Design, Data Analysis, and Algorithms**.  
-- 📚 Participating in the **45 Days DSA Challenge by Arsh Goyal** to sharpen my problem-solving skills.  
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, C, C++, Java, Python, Django, MySQL, PostgreSQL, Node.js, Express.js, and EJS**.  
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/abhijithcsgo?tab=repositories)**.  
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-abhijithcs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-cs-/)
@@ -39,7 +38,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-<h3 align="left">### :hammer_and_wrench: Languages and Tools :</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 
 <h4>Frontend Development</h4>
 <p align="left">
