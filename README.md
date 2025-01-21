@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala, India, working at Wipro PARI. I am always eager to explore new technologies and enhance my skills.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, working at Wipro PARI. I am always eager to explore new technologies and enhance my skills.
 
 - 🔭 I’m currently working as a **Software Developer at Wipro PARI**.  
 - 🌱 I’m currently learning **ASP .NET, DevExtreme, and Web API**.  
