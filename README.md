@@ -6,13 +6,6 @@
 <p align="left"> <a href="https://twitter.com/abhijithcs" target="blank"><img src="https://img.shields.io/twitter/follow/abhijithcs?logo=twitter&style=for-the-badge" alt="abhijithcs" /></a> </p>
 
 - 🌱 I’m currently learning **ASP .NET, DevExtreme , web API**
-- - 🔭 My project is **Trip Planner Website**, a platform that revolutionizes the travel planning experience.  
-  **Technologies Used**: Django (Python web framework), HTML/CSS, JavaScript, Leaflet.js (for maps), Bootstrap (for frontend styling)  
-  **Database**: PostgreSQL  
-  **IDE**: Visual Studio Code  
-  **Languages**: Python, JavaScript  
-  **Description**:  
-  The Trip Planner website simplifies trip planning by allowing users to input their destination and time availability to receive tailored tour packages. It offers features like landscape-based search, interactive map views, itinerary suggestions, and information about restaurants and accommodations. Users can contribute by adding tourist spots and sharing reviews, making it a comprehensive solution for travel planning.
 
 - 🌱 I’m enhancing my skills in UI/UX design, Data Analysis, and Algorithms.
 
