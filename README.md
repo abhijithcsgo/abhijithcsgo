@@ -26,19 +26,6 @@
 - ⚡ Fun fact: **I think I am Funny.**
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-... <!-- Include your existing tools section here -->
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithcsgo&show_icons=true&locale=en&layout=compact" alt="abhijithcs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijithcsgo&show_icons=true&locale=en" alt="abhijithcs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithcsgo&" alt="abhijithcs" /></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 ... <!-- Include your existing tools section here -->
