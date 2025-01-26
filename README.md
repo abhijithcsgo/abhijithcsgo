@@ -28,7 +28,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, working at Wipro PARI. I am always eager to explore new technologies and enhance my skills.
 
-- 🔭 I’m currently working as a **Software Developer at Wipro PARI**.  
+- 🔭 I’m currently working as a **Software Developer Trainee at Wipro PARI**.  
 - 🌱 I’m currently learning **ASP .NET, DevExtreme, and Web API**.  
 - 🌱 I’m also enhancing my skills in **UI/UX Design, Data Analysis, and Algorithms**.  
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, C, C++, Java, Python, Django, MySQL, PostgreSQL, Node.js, Express.js, and EJS**.  
