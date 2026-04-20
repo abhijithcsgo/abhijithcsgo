@@ -53,16 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijithcsgo&theme=dark&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithcsgo&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 What I'm Focusing On
 
 * Building **scalable backend systems**
