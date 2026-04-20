@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Abhijith C S
 
-### Software Developer | .NET | Backend Engineer
+### Software Developer | .NET Full Stack Developer | Backend Engineer
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
