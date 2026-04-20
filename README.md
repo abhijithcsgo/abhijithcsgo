@@ -37,7 +37,7 @@
 
 ### 💻 Backend
 
-* C#, .NET, ASP.NET Core, Web API, Entity Framework Core
+* C#, .NET, ASP.NET Core, Web API, Entity Framework Core, Python, Django 
 
 ### 🎨 Frontend
 
