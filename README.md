@@ -41,7 +41,7 @@
 
 ### 🎨 Frontend
 
-* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, DevExtreme
 
 ### 🗄️ Databases
 
