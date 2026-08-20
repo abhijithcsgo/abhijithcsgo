@@ -49,7 +49,7 @@
 
 ### ⚙️ Tools & Platforms
 
-* Git, Linux
+* Azure DevOps, Git, Linux
 
 ---
 
